@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Frontend developer from Croatia looking for new opportunities
+Hi I'm a self-thought frontend developer, I like learning new things and solving problems! You can find more about me on my [LinkedIn](https://www.linkedin.com/in/karlo-%C5%A1imi%C4%87-309338237/)!
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Typescript
+- 💬 Ask me about anything!!
 - 📫 How to reach me: ksimic2001@gmail.com
 
 ### Connect with me:
@@ -27,7 +28,7 @@ Frontend developer from Croatia looking for new opportunities
 
 ### Technologies I use:
 
-- JavaScript
+- Javascript
 - React
 - Redux
 - Styled Components
