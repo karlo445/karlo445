@@ -28,8 +28,8 @@ Hi I'm a self-thought frontend developer, I like learning new things and solving
 
 ### Technologies I use:
 
-- Javascript
-- React.js
+- JavaScript
+- React
 - Redux
-- Styled Components
+- Styled components
 - Scss
