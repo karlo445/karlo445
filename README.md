@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm a self-thought frontend developer, I like learning new things and solving problems! You can find more about me on my [LinkedIn](https://www.linkedin.com/in/karlo-%C5%A1imi%C4%87-309338237/)!
+Hi I'm a frontend developer, I like learning new things and solving problems!
 
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything!!
@@ -29,7 +29,8 @@ Hi I'm a self-thought frontend developer, I like learning new things and solving
 ### Technologies I use:
 
 - JavaScript
+- TypeScript
 - React
 - Redux
-- Styled components
-- Scss
+- Sass
+- Styled-components
