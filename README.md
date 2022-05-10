@@ -19,7 +19,7 @@ Hi I'm a frontend developer, I like learning new things and solving problems!
 
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything!!
-- 📫 How to reach me: ksimic2001@gmail.com
+- 📫 How to reach me: karlosimicdev@gmail.com
 
 ### Connect with me:
 
