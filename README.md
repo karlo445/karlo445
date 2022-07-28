@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm a frontend developer, I like learning new things and solving problems!
+I'm a front-end developer but I'm also slowly progressing in game development with C#!
 
 - 🌱 I’m currently learning Jest.js
 - 💬 Ask me about anything!!
