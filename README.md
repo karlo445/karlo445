@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a front-end developer but I'm also slowly progressing in game development with C#!
 
-- 🌱 I’m currently learning Jest.js
+- 🌱 I’m currently learning testing libraries for React
 - 💬 Ask me about anything!!
 - 📫 How to reach me: karlosimicdev@gmail.com
 
